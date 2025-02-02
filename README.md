@@ -8,4 +8,9 @@ Key Features:
 4. Admin Management Dashboard – Hotel staff can track and manage reservations, adjust room availability, and oversee the hotel’s operational workflow from a centralized dashboard.
 5. Efficient Room Allocation – The system ensures guests can see which rooms are available and choose accordingly, preventing any double-booking.
 
+Technology Used:
+Frontend: React, HTML, CSS, JavaScript
+Backend: Java, Spring Boot
+Database: MySQL
+
 StayEasy was designed with simplicity in mind. It makes hotel management tasks straightforward, saving time for staff and improving the booking experience for guests. For hotel staff, it provides a straightforward way to track reservations, manage room availability, and handle daily hotel operations.
